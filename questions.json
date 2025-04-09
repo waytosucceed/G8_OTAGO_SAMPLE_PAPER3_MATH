@@ -1,0 +1,52 @@
+{
+  "heading": "Sample Paper 3",
+  "topics": [
+    {
+      "heading": "Sample Paper 3",
+      "questions": [
+      
+        {
+          "questionNo": 1,
+          "question": "A water tank can hold 500 liters of water. Two pipes are used to fill the tank. The first pipe fills 50 liters more than the second pipe. If both pipes together completely fill the tank, how much water did the first pipe contribute?",
+          "input": [
+            { "operand": "" }
+          ],
+          "answer": ["275 liters"]
+        },
+        {
+          "questionNo": 2,
+          "question": "Ravi is running at a constant speed to his friend's house. He passes a park (1/3 of the way) at 4:15 PM and a library (2/3 of the way) at 4:25 PM. If he continues at the same speed, will he reach his friend’s house by 4:35 PM, on time, early, or late?",
+          "input": [
+            { "operand": "" }
+          ],
+          "answer": ["on time"]
+        },
+        {
+          "questionNo": 3,
+          "question": "At a birthday party, 5 children—Alice, Bob, Charlie, David, and Emily—are standing in a random order for a group photo. What is the percentage chance that Alice and Bob will be next to each other?",
+          "input": [
+            { "operand": "" }
+          ],
+          "answer": ["40%"]
+        },
+        {
+          "questionNo": 4,
+          "question": "A larger rectangle ABCD is divided into: 2 blue squares (same dimensions)<br>3 orange rectangles (same dimensions) 1 red rectangle and 1 green rectangle  <br>Some areas of the smaller pieces are given in the diagram.<br><img width='40%' src='./assests/images/1.png'><br>Using the given information, find the perimeter of the larger rectangle ABCD.",
+          "input": [
+            { "operand": "" }
+          ],
+          "answer": ["18 meters"]
+        },
+        {
+          "questionNo": 5,
+          "question": "The monthly salary of X is 80% more than the salary of Y, and the salary of Y is 20% less than the salary of Z.<br>What is the ratio of X: Z?",
+          "input": [
+            { "operand": "" }
+          ],
+          "answer": ["36:25"]
+        }
+      ]
+      
+    }
+  ]
+}
